@@ -3,14 +3,18 @@ A Raspberry Pi hat with a DSPic and USB.
 
 To-do list:
 - [x] USB
-- [x] UART cip
-- [ ] Verify chip selected 
+- [x] UART chip
+- [x] Verify chip selected 
 - [ ] Wire DSPic 
-    - [ ] Wire dubug port
+    - [x] Wire dubug port
+    - [ ] 1n4148 to MCLR?
+    - [x] Add oscillator
+    - [ ] Check oscillator
 - [ ] Wire to Pi GPIO
     - [x] Power pins
     - [ ] Pi to DSPic
-- [ ] Add debug port
+- [x] Add ICSP header
+    - [ ] Second header for slave core?
 - [ ] Add connectors for coil drivers
 - [ ] Add chip protection
     - [x] Add linear regulator
