@@ -6,6 +6,7 @@ To-do list:
 - [x] UART cip
 - [ ] Verify chip selected 
 - [ ] Wire DSPic 
+    - [ ] Wire dubug port
 - [ ] Wire to Pi GPIO
     - [x] Power pins
     - [ ] Pi to DSPic
