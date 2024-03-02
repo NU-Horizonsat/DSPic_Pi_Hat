@@ -7,8 +7,14 @@ To-do list:
 - [ ] Verify chip selected 
 - [ ] Wire DSPic 
 - [ ] Wire to Pi GPIO
+    - [x] Power pins
+    - [ ] Pi to DSPic
 - [ ] Add debug port
 - [ ] Add connectors for coil drivers
 - [ ] Add chip protection
-- [ ] Add connector for other PSU
+    - [x] Add linear regulator
+    - [ ] Driver input protection
+- [ ] Find polyfuse rating
+- [x] Add connector for other PSU
+- [ ] Test points
 - [ ] Add pcb art
