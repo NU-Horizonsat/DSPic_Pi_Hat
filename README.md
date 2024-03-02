@@ -10,15 +10,20 @@ To-do list:
     - [ ] 1n4148 to MCLR?
     - [x] Add oscillator
     - [ ] Check oscillator
+    - [x] Wire ADC pins
+    - [ ] Check ADC connections
 - [ ] Wire to Pi GPIO
     - [x] Power pins
     - [ ] Pi to DSPic
 - [x] Add ICSP header
     - [ ] Second header for slave core?
-- [ ] Add connectors for coil drivers
+- [x] Add connectors for coil drivers
 - [ ] Add chip protection
     - [x] Add linear regulator
-    - [ ] Driver input protection
+    - [x] I2C protection
+    - [x] PWM protection
+    - [x] ADC protection
+    - [ ] Check to make sure the ESD would work
 - [ ] Find polyfuse rating
 - [x] Add connector for other PSU
 - [ ] Test points
