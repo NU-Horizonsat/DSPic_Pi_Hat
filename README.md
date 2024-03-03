@@ -10,8 +10,9 @@ To-do list:
     - [ ] 1n4148 to MCLR?
     - [x] Add oscillator
     - [ ] Check oscillator
-    - [ ] Wire ADC pins
-    - [ ] Wire PWM pins
+    - [x] Wire ADC pins
+    - [x] Wire PWM pins
+    - [x] Wire i2c
     - [ ] Check ADC connections
 - [ ] Wire to Pi GPIO
     - [x] Power pins
