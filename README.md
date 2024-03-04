@@ -11,12 +11,16 @@ To-do list:
     - [x] Add oscillator
     - [ ] Check oscillator
     - [x] Wire ADC pins
+    - [ ] Check ADC connections
     - [x] Wire PWM pins
     - [x] Wire i2c
-    - [ ] Check ADC connections
+    - [x] Dip switches
+    - [x] Status LEDs
 - [ ] Wire to Pi GPIO
     - [x] Power pins
-    - [ ] Pi to DSPic
+    - [x] Pi to DSPic
+    - [x] Screen connectors
+    - [x] Status LEDs
 - [x] Add ICSP header
     - [ ] Second header for slave core?
 - [x] Add connectors for coil drivers
