@@ -12,8 +12,10 @@ To-do list:
     - [ ] Check oscillator
     - [x] Wire ADC pins
     - [ ] Check ADC connections
-    - [x] Wire PWM pins
+    - [ ] Wire PWM pins
     - [x] Wire i2c
+        - [ ] might not even need that
+    - [ ] rework connectors
     - [x] Dip switches
     - [x] Status LEDs
 - [ ] Wire to Pi GPIO
