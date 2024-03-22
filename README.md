@@ -36,3 +36,5 @@ To-do list:
 - [x] Add connector for other PSU
 - [ ] Test points
 - [ ] Add pcb art
+- [ ] Assign all footprints
+- [ ] Check footprints
