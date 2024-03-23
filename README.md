@@ -2,6 +2,9 @@
 A Raspberry Pi hat with a DSPic and USB.
 
 To-do list:
+
+## schematic
+
 - [x] USB
 - [x] UART chip
 - [x] Verify chip selected 
@@ -12,7 +15,7 @@ To-do list:
     - [ ] Check oscillator
     - [x] Wire ADC pins
     - [ ] Check ADC connections
-    - [ ] Wire PWM pins
+    - [x] Wire PWM pins
     - [x] Wire i2c
         - [ ] might not even need that
     - [ ] rework connectors
@@ -34,7 +37,14 @@ To-do list:
     - [ ] Check to make sure the ESD would work
 - [ ] Find polyfuse rating
 - [x] Add connector for other PSU
+
+## PCB
 - [ ] Test points
 - [ ] Add pcb art
 - [ ] Assign all footprints
+- [ ] Proper edge cuts for hat
 - [ ] Check footprints
+- [x] Connectors and ESD
+- [x] USB c and power
+- [ ] UART
+- [ ] DPSIC
