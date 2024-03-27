@@ -41,10 +41,10 @@ To-do list:
 ## PCB
 - [ ] Test points
 - [ ] Add pcb art
-- [ ] Assign all footprints
+- [x] Assign all footprints
 - [ ] Proper edge cuts for hat
 - [ ] Check footprints
 - [x] Connectors and ESD
 - [x] USB c and power
-- [ ] UART
-- [ ] DPSIC
+- [x] UART
+- [x] DPSIC
