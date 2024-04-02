@@ -16,12 +16,12 @@ To-do list:
     - [x] Wire ADC pins
     - [ ] Check ADC connections
     - [x] Wire PWM pins
-    - ~~[x] Wire i2c~~
+    - [x] ~~Wire i2c~~
         - [x] might not even need that (dont need it)
     - [x] rework connectors
     - [x] Dip switches
     - [x] Status LEDs
-- [ ] Wire to Pi GPIO
+- [x] Wire to Pi GPIO
     - [x] Power pins
     - [x] Pi to DSPic
     - [x] Screen connectors
@@ -31,11 +31,14 @@ To-do list:
 - [x] Add connectors for coil drivers
 - [ ] Add chip protection
     - [x] Add linear regulator
-    - ~~[x] I2C protection~~
+    - [x] ~~I2C protection~~
     - [x] PWM protection
     - [x] ADC protection
     - [ ] Check to make sure the ESD would work
-- [ ] Find polyfuse rating
+- [ ] Find polyfuse to use
+- [ ] Find crystal
+- [ ] Find inductor 
+- [ ] Finalize resistor and led paring 
 - [x] Add connector for other PSU
 
 ## PCB

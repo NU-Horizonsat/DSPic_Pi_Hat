@@ -1,4 +1,4 @@
-21007878051062249
+21009589735687543
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87898,6 +87898,13 @@ Connector
 0
 12
 12
+footprints
+Banner
+
+
+0
+0
+0
 footprints
 D0008B-IPC_A
 
