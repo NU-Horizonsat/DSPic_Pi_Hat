@@ -6383,7 +6383,7 @@
   (symbol (lib_id "Device:Polyfuse_Small") (at 367.03 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6c4fc749-d06c-4285-ad23-6e82f5e07688)
-    (property "Reference" "F?" (id 0) (at 367.03 154.94 90))
+    (property "Reference" "F1" (id 0) (at 367.03 154.94 90))
     (property "Value" "3.5 A(?)" (id 1) (at 367.03 157.48 90))
     (property "Footprint" "Fuse:Fuse_2920_7451Metric" (id 2) (at 372.11 160.02 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
@@ -8293,7 +8293,7 @@
       (reference "D13") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm")
     )
     (path "/6c4fc749-d06c-4285-ad23-6e82f5e07688"
-      (reference "F?") (unit 1) (value "3.5 A(?)") (footprint "Fuse:Fuse_2920_7451Metric")
+      (reference "F1") (unit 1) (value "3.5 A(?)") (footprint "Fuse:Fuse_2920_7451Metric")
     )
     (path "/73568451-6492-491a-bea8-1d81af82b417"
       (reference "FB1") (unit 1) (value "FerriteBead_Small") (footprint "Resistor_SMD:R_1206_3216Metric")
