@@ -35,10 +35,11 @@ To-do list:
     - [x] PWM protection
     - [x] ADC protection
     - [ ] Check to make sure the ESD would work
-- [ ] Find polyfuse to use
-- [ ] Find crystal
-- [ ] Find inductor 
-- [ ] Finalize resistor and led paring 
+- [x] Find polyfuse to use
+- [x] Find capacitor value for C5
+- [x] Find crystal
+- [x] Find inductor 
+- [x] Finalize resistor and led paring 
 - [x] Add connector for other PSU
 
 ## PCB
