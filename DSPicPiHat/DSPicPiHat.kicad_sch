@@ -16078,7 +16078,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 273.05 233.68 0)
 			(effects
 				(font
@@ -16602,7 +16602,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "0 ohm"
 			(at 54.61 236.2199 0)
 			(effects
 				(font
@@ -16940,7 +16940,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 273.05 248.92 0)
 			(effects
 				(font
@@ -17007,7 +17007,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 273.05 218.44 0)
 			(effects
 				(font
@@ -17686,7 +17686,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 273.05 210.82 0)
 			(effects
 				(font
@@ -17820,7 +17820,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uf"
 			(at 401.32 165.1062 0)
 			(effects
 				(font
@@ -18003,7 +18003,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Led"
 			(at 170.18 230.1874 90)
 			(effects
 				(font
@@ -18411,7 +18411,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Led"
 			(at 55.88 230.1874 90)
 			(effects
 				(font
@@ -19722,7 +19722,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "0 ohm"
 			(at 168.91 236.2199 0)
 			(effects
 				(font
@@ -22527,7 +22527,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Led"
 			(at 113.03 230.1874 90)
 			(effects
 				(font
@@ -23064,7 +23064,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "0 ohm"
 			(at 111.76 236.2199 0)
 			(effects
 				(font
@@ -23134,7 +23134,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uf"
 			(at 374.65 165.1062 0)
 			(effects
 				(font
@@ -25101,7 +25101,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 273.05 226.06 0)
 			(effects
 				(font
@@ -26074,7 +26074,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 273.05 241.3 0)
 			(effects
 				(font
