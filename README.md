@@ -34,7 +34,7 @@ To-do list:
     - [x] ~~I2C protection~~
     - [x] PWM protection
     - [x] ADC protection
-    - [ ] Check to make sure the ESD would work
+    - [x] Check to make sure the ESD would work
 - [x] Find polyfuse to use
 - [x] Find capacitor value for C5
 - [x] Find crystal
