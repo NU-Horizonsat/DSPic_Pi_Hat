@@ -16011,7 +16011,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 281.94 248.92 90)
 			(effects
 				(font
@@ -18208,7 +18208,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 281.94 218.44 90)
 			(effects
 				(font
@@ -18693,7 +18693,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 281.94 233.68 90)
 			(effects
 				(font
@@ -18760,7 +18760,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 281.94 226.06 90)
 			(effects
 				(font
@@ -20932,15 +20932,15 @@
 		(fields_autoplaced yes)
 		(uuid "7d947c7c-182e-4ac4-97c5-da6a2fb3c10c")
 		(property "Reference" "R25"
-			(at 74.93 20.32 90)
+			(at 74.93 21.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "0 o"
-			(at 74.93 22.86 90)
+		(property "Value" "0 ohm"
+			(at 74.93 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22723,15 +22723,15 @@
 		(fields_autoplaced yes)
 		(uuid "aaf0ff05-328a-4444-8ccf-74f84a76e126")
 		(property "Reference" "R26"
-			(at 81.28 22.86 90)
+			(at 81.28 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "0 o"
-			(at 81.28 25.4 90)
+		(property "Value" "0 ohm"
+			(at 81.28 26.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24285,7 +24285,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 281.94 210.82 90)
 			(effects
 				(font
@@ -26354,7 +26354,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 281.94 241.3 90)
 			(effects
 				(font

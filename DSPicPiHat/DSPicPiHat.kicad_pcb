@@ -529,7 +529,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "d7f92e0b-0c03-47f4-abb6-df17dceaa5f6")
@@ -751,7 +751,7 @@
 		(descr "JST SH series connector, BM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST SH side entry")
 		(property "Reference" "J2"
-			(at 0 -3.3 0)
+			(at -4.35 0.575 0)
 			(layer "F.SilkS")
 			(uuid "7707939e-009b-45ee-b289-e9032f49b10a")
 			(effects
@@ -2276,7 +2276,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "581a1595-8601-4afc-9c7f-89937c16417d")
@@ -4790,7 +4790,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "41e2b457-7dfc-4ee3-9222-433d3c0f5701")
@@ -9388,7 +9388,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "72167f63-b387-47b1-9f47-26046acb45b2")
@@ -10702,7 +10702,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "c98647af-ff71-459a-9fe7-248884e795bd")
@@ -10912,7 +10912,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "96eb2436-b742-4865-be3e-2b413933fb47")
@@ -11332,7 +11332,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "28cecd3e-07bb-4044-9456-2264e28a6f53")
@@ -12464,7 +12464,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue Led"
+		(property "Value" "Led"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "fbdd041e-2741-451e-b72e-69b3732edd73")
@@ -12696,7 +12696,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "0 ohm"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "6655933d-f280-4c97-80c7-446a7a98dc2d")
@@ -13363,7 +13363,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "0 ohm"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "e179365f-7d28-46c6-9da0-35e2a7fb1b13")
@@ -15701,7 +15701,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "5a7a8b0b-e706-4997-8b79-23f935e9db55")
@@ -17479,7 +17479,7 @@
 				)
 			)
 		)
-		(property "Value" "0 o"
+		(property "Value" "10 o"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "c1bfa4b3-8d2c-474e-a57f-b62688c308b0")
@@ -17899,7 +17899,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue Led"
+		(property "Value" "Led"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "21ae2804-0c93-497c-9eac-ec822c3fa7bc")
@@ -18131,7 +18131,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "409731e1-e067-46dc-b151-ef5010bcf4e6")
@@ -18945,7 +18945,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "3a023af2-bf3f-4bef-91e0-42882e431a91")
@@ -19177,7 +19177,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue Led"
+		(property "Value" "Led"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "601a8b04-3629-44fa-9613-aa7947a453fc")
@@ -20405,7 +20405,7 @@
 				)
 			)
 		)
-		(property "Value" "Blue_Led"
+		(property "Value" "Led"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "5f9b5e58-891b-4167-94e6-233890d0c07e")

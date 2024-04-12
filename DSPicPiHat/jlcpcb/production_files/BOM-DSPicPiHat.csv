@@ -1,0 +1,49 @@
+Comment,Designator,Footprint,LCSC
+FerriteBead_Small,FB1,R_1206_3216Metric,C1017
+NCP1117-3.3_SOT223,U12,SOT-223-3_TabPin2,C146799
+47pf,"C16,C17",C_0805_2012Metric,C14857
+10uf,"C19,C22",C_0805_2012Metric,C15850
+10nf,C18,C_0805_2012Metric,C1710
+10k,"R17,R18,R19,R20,R21,R22,R23,R24,R3",R_0805_2012Metric,C17414
+10 o,"R10,R11,R12,R7,R8,R9",R_0805_2012Metric,C17415
+470o,"R4,R6",R_0805_2012Metric,C17710
+4.7uf,C21,C_0805_2012Metric,C1779
+POWER_Select,SW1,SW_SPDT_PCM12,C221841
+DF5A6.2CJE_LM,"U10,U3,U4,U6,U7,U9",SOT-553,C2762689
+5.1k,"R13,R14",R_0805_2012Metric,C27834
+0.1uf Cer,"C10,C11,C12,C15,C20,C5,C6,C9",C_0805_2012Metric,C28233
+USB_C_Receptacle_USB2.0,J5,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C2927038
+Led,"D1,D10,D11,D2,D3,D6,D7,D8,D9",LED_0805_2012Metric,C34499
+27o,"R15,R16",R_0805_2012Metric,C365278
+WS2812B,"D12,D13,D4,D5",LED_WS2812B-2020_PLCC4_2.0x2.0mm,C4154877
+FT230XS,U11,SSOP-16_3.9x4.9mm_P0.635mm,C69082
+Conn_01x04_Female,J2,JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,
+Fiducial,FID1,Fiducial_1mm_Mask2mm,
+0 ohm,R2,R_0805_2012Metric,
+0 ohm,R5,R_0805_2012Metric,
+0 ohm,R1,R_0805_2012Metric,
+Jumper_2_Open,JP1,PinHeader_1x02_P2.54mm_Vertical,
+Conn_PIC_ICSP_ICD,J4,PinHeader_2x03_P2.54mm_Vertical,
+SW_DIP_x08,SW2,SW_DIP_SPSTx08_Slide_9.78x22.5mm_W7.62mm_P2.54mm,
+MountingHole_Pad,H4,MountingHole_2.7mm_M2.5_DIN965_Pad,
+TestPoint,TP1,TestPoint_Pad_D1.0mm,
+0 ohm,R25,R_0805_2012Metric,
+0 ohm,R26,R_0805_2012Metric,
+TestPoint,TP2,TestPoint_Pad_D1.0mm,
+100MHz,Y1,Crystal_SMD_2520-4Pin_2.5x2.0mm,
+Fiducial,FID3,Fiducial_1mm_Mask2mm,
+MountingHole_Pad,H1,MountingHole_2.7mm_M2.5_DIN965_Pad,
+DSPIC33CH512MP508T-I_PT,U1,TQFP-80_12x12mm_P0.5mm,
+Conn_01x08,Connector_X1,Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal,
+6.33 mH,L1,L_0805_2012Metric,
+Fiducial,FID2,Fiducial_1mm_Mask2mm,
+Conn_01x08,Connector_Y1,Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal,
+12pF,C13,C_0603_1608Metric,
+12pF,C14,C_0603_1608Metric,
+Conn_01x08,Connector_Z1,Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal,
+MountingHole_Pad,H2,MountingHole_2.7mm_M2.5_DIN965_Pad,
+PowerInput,J6,Molex_Pico-Clasp_202396-0207_1x02-1MP_P1.00mm_Horizontal,
+5 a,F1,Fuse_1210_3225Metric,
+Conn_01x09_Female,J1,PinHeader_1x09_P2.54mm_Vertical,
+MountingHole_Pad,H3,MountingHole_2.7mm_M2.5_DIN965_Pad,
+RasPiHeaders,J8,PinSocket_2x20_P2.54mm_Vertical,
