@@ -13,11 +13,8 @@ C17,47pf,C_0805_2012Metric,7.0,-8.5,90.0,top
 C18,10nf,C_0805_2012Metric,3.5,-17.0,180.0,top
 C19,10uf,C_0805_2012Metric,9.25,-32.0,-90.0,top
 C20,100nf,C_0805_2012Metric,13.3,-16.05,180.0,top
-C21,4.7uf,C_0805_2012Metric,4.6,-24.0,180.0,top
+C21,4.7uf,CP_Elec_4x5.4,8.0,-22.75,0.0,top
 C22,10uf,C_0805_2012Metric,18.0,-20.7,180.0,top
-Connector_X1,Conn_01x08,Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal,8.9,-58.3,0.0,top
-Connector_Y1,Conn_01x08,Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal,28.9,-58.3,0.0,top
-Connector_Z1,Conn_01x08,Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal,48.9,-58.3,0.0,top
 D1,Led,LED_0805_2012Metric,16.0,-56.1,90.0,top
 D2,Led,LED_0805_2012Metric,36.1,-56.1,90.0,top
 D3,Led,LED_0805_2012Metric,56.1,-55.9,90.0,top
@@ -33,16 +30,7 @@ D12,WS2812B,LED_WS2812B-2020_PLCC4_2.0x2.0mm,13.5,-4.6,0.0,top
 D13,WS2812B,LED_WS2812B-2020_PLCC4_2.0x2.0mm,10.25,-4.6,0.0,top
 F1,5 a,Fuse_1210_3225Metric,10.6,-27.2,0.0,top
 FB1,FerriteBead_Small,R_1206_3216Metric,3.0,-20.5,-90.0,top
-FID1,Fiducial,Fiducial_1mm_Mask2mm,58.0,-59.0,0.0,top
-FID2,Fiducial,Fiducial_1mm_Mask2mm,0.0,-59.0,0.0,top
-FID3,Fiducial,Fiducial_1mm_Mask2mm,39.4,-7.7,0.0,top
-J1,Conn_01x09_Female,PinHeader_1x09_P2.54mm_Vertical,34.59,-4.7,-90.0,top
-J2,Conn_01x04_Female,JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,19.4,-9.325,180.0,top
-J4,Conn_PIC_ICSP_ICD,PinHeader_2x03_P2.54mm_Vertical,56.605,-37.885,180.0,top
 J5,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,-0.54,-10.5,-90.0,top
-J6,PowerInput,Molex_Pico-Clasp_202396-0207_1x02-1MP_P1.00mm_Horizontal,0.3,-37.6,-90.0,top
-J8,RasPiHeaders,PinSocket_2x20_P2.54mm_Vertical,29.03,-0.02,270.0,bottom
-JP1,Jumper_2_Open,PinHeader_1x02_P2.54mm_Vertical,59.5,-30.365,0.0,top
 L1,6.33 mH,L_0805_2012Metric,27.5,-39.76875,-90.0,top
 R1,0 ohm,R_0805_2012Metric,16.0,-59.6125,-90.0,top
 R2,0 ohm,R_0805_2012Metric,36.1,-59.6,-90.0,top
@@ -71,8 +59,6 @@ R24,10k,R_0805_2012Metric,49.2,-24.1,0.0,top
 R25,0 ohm,R_0805_2012Metric,29.2,-25.6,180.0,top
 R26,0 ohm,R_0805_2012Metric,29.2,-23.4,0.0,top
 SW1,POWER_Select,SW_SPDT_PCM12,5.175,-30.0,-90.0,top
-SW2,SW_DIP_x08,SW_DIP_SPSTx08_Slide_9.78x22.5mm_W7.62mm_P2.54mm,56.2425,-14.79,0.0,top
-U1,DSPIC33CH512MP508T-I_PT,TQFP-80_12x12mm_P0.5mm,39.5,-31.0,0.0,top
 U3,DF5A6.2CJE_LM,SOT-553,8.7,-50.95,-90.0,top
 U4,DF5A6.2CJE_LM,SOT-553,4.5,-51.0,-90.0,top
 U6,DF5A6.2CJE_LM,SOT-553,27.95,-51.03,-90.0,top
@@ -81,4 +67,3 @@ U9,DF5A6.2CJE_LM,SOT-553,50.2,-51.1,-90.0,top
 U10,DF5A6.2CJE_LM,SOT-553,46.8,-51.1,-90.0,top
 U11,FT230XS,SSOP-16_3.9x4.9mm_P0.635mm,19.2025,-15.0525,180.0,top
 U12,NCP1117-3.3_SOT223,SOT-223-3_TabPin2,19.0,-26.5,90.0,top
-Y1,100MHz,Crystal_SMD_2520-4Pin_2.5x2.0mm,43.7,-42.7,180.0,top
