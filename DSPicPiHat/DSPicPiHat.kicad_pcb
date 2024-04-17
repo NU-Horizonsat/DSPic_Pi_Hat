@@ -10160,7 +10160,7 @@
 		(descr "SMD capacitor, aluminum electrolytic, Panasonic A5 / Nichicon, 4.0x5.4mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C21"
-			(at 0 -3.2 360)
+			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(uuid "dc3dc50d-bde3-4bf9-b3aa-a49c02446ebb")
 			(effects
@@ -10171,7 +10171,7 @@
 			)
 		)
 		(property "Value" "4.7uf"
-			(at 0 3.2 360)
+			(at 0 3.2 0)
 			(layer "F.Fab")
 			(uuid "6804d465-2722-4704-bc91-e583cd0b7de1")
 			(effects
@@ -10554,7 +10554,7 @@
 			(uuid "a9cf06fb-59c3-4780-9f5e-f974eb711789")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8207a43b-e879-4a9b-830a-5dc70c958466")
 			(effects
